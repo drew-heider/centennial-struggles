@@ -2,7 +2,7 @@
 title: Centennial Struggle
 layout: homepage
 permalink: /
-pullquote:
+pullquote: "Welcome to Centennial Struggles!"
 quoteattribution:
 ---
 
