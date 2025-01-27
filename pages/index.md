@@ -12,22 +12,15 @@ By combining interactive maps with a community-driven archive, Centennial Strugg
 
 
 
-## Explore This Site
+## Explore
 
-#### Community Archive
+### Community Archive
 
 Access and contribute personal accounts, historical records, artwork, news reports, and more to build a collective memory of resistance and resilience.
 
-#### Interactive Map
+### Interactive Map
 
 Locate prisons, police departments, corporate suppliers, and key sites of resistance across Colorado’s Front Range, blending historical and contemporary data.
 
 ## Reach Out
-
-#### Website
-
-...
-
-#### Email
-
-centennial-struggles [at] gmail.com
+Interested in contributing to this project? We want to hear your story! [[LINK TO SUBMISSION PAGE HERE]]
