@@ -10,9 +10,9 @@ Centennial Struggles is an online platform dedicated to documenting and visualiz
 
 By combining interactive maps with a community-driven archive, Centennial Struggles seeks to uncover the connections between government institutions, private corporations, and the communities affected by the prison industrial complex in Colorado. By combining historical research with crowdsourced contributions, we aim to shed light on the struggles against incarceration and policing in Colorado.
 
+---
 
-
-## Explore
+# Explore
 
 ### Community Archive
 
@@ -22,5 +22,7 @@ Access and contribute personal accounts, historical records, artwork, news repor
 
 Locate prisons, police departments, corporate suppliers, and key sites of resistance across Colorado’s Front Range, blending historical and contemporary data.
 
-## Reach Out
+---
+
+# Reach Out
 Interested in contributing to this project? We want to hear your story! [[LINK TO SUBMISSION PAGE HERE]]
