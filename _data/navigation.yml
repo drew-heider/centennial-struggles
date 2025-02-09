@@ -15,11 +15,6 @@
   excerpt:
   image:
 
-- title: Network
-  url: /network
-  excerpt:
-  image:
-
 - title: Archive
   url: /collection
   excerpt:
@@ -30,7 +25,7 @@
   excerpt:
   image:
 
-- title: About the Team
+- title: About
   url: /about
   excerpt:
   image:
