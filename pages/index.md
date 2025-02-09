@@ -25,4 +25,4 @@ Locate prisons, police departments, corporate suppliers, and key sites of resist
 ---
 
 # Reach Out
-Interested in contributing to this project? We want to hear your story! [[LINK TO SUBMISSION PAGE HERE]]
+Interested in contributing to this project? We want to hear [your story](https://drew-heider.github.io/centennial-struggles/submissions)!
