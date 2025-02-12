@@ -12,7 +12,7 @@ By combining interactive maps with a community-driven archive, Centennial Strugg
 
 ---
 
-# Explore
+# **Explore**
 
 ### [Community Archive](https://drew-heider.github.io/centennial-struggles/collection)
 
@@ -24,5 +24,5 @@ Locate prisons, police departments, corporate suppliers, and key sites of resist
 
 ---
 
-# Reach Out
+# **Reach Out**
 Interested in contributing to this project? We want to hear [your story](https://drew-heider.github.io/centennial-struggles/submissions)!
