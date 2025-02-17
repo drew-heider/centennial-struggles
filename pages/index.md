@@ -2,8 +2,6 @@
 title: Centennial Struggle
 layout: homepage
 permalink: /
-pullquote: 
-quoteattribution:
 ---
 
 Centennial Struggles is an online platform dedicated to documenting and visualizing the impact of the carceral power in Colorado’s Front Range. Our mission is to provide activists, scholars, and community members with the tools and resources needed to understand and challenge the expansion of carceral power in our region.
