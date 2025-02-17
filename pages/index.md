@@ -14,7 +14,7 @@ By combining interactive maps with a community-driven archive, Centennial Strugg
 
 ### [Community Archive](https://drew-heider.github.io/centennial-struggles/collection)
 
-Access and contribute personal accounts, historical records, artwork, news reports, and more to build a collective memory of resistance and resilience.
+Access and contribute personal accounts, historical records, artwork, news reports, and other items to build a collective memory of resistance and resilience.
 
 ### [Interactive Map](https://drew-heider.github.io/centennial-struggles/map)
 
