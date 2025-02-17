@@ -18,7 +18,7 @@ Access and contribute personal accounts, historical records, artwork, news repor
 
 ### [Interactive Map](https://drew-heider.github.io/centennial-struggles/map)
 
-Locate prisons, police departments, corporate suppliers, and key sites of resistance across Colorado’s Front Range, blending historical and contemporary data.
+Locate and explore items found in our collections on a map Colorado’s Front Range.
 
 ---
 
