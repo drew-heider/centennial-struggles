@@ -42,32 +42,32 @@ repository: 'idahatiu/idahatiu.github.io' # change this to your repository name
 #---------------------
 
 # Title of your website
-title: "IDAH@IU"
+title: "Centennial Struggles"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: "An Archive of Our Community's Heirlooms"
+subtitle: "A Community-Driven Archive & Map of Social Struggle in Colorado"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
-description: "Community Archiving Site"
+description: "Centennial Struggles website"
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: "IDAH@IU"
-authorname : "Institute for Digital Arts and Humanities"
+author: "Centennial Struggles"
+authorname : "Centennial Struggles"
 
 # To change the photo on your homepage, open the assets folder in your Github repo, then open the img folder. Upload a photo there. Add only the name of the photo and its extension here. E.g. "alternate_logo.png")
 # Main author of the website.
-sitelogo: "site_logo.jpg"
+sitelogo: "Centennial-Struggles-Logo.jpg"
 
 # What year did you start up this community project?
-sitedate : 2022
+sitedate : 2025
 
 # Other community social media. Leave blank if you don't have these.
-email : "idah [at] iu.edu"
-website : "https://idah.indiana.edu/"
-twitter : "IDAH_IU"
-github : "idahatiu"
-facebook : "idahatiu"
+email : "centennial-struggles [at] gmail.com"
+website : ""
+twitter : ""
+github : ""
+facebook : ""
 instagram : 
 
 # If you need to know how many people visit your site, go to https://analytics.google.com/
@@ -85,9 +85,9 @@ google_g4_analytics_id:
 #fontchoice: archivonarrow # A narrow sans-serif font for headlines and body text
 #fontchoice: baloo # A clean sans-serif font with a playful rounded sans-serif accent
 #fontchoice: quattrocento # A modern sans-serif font with classic serif accents
-#fontchoice: raleway # An elegant sans-serif font with bold sans-serif accents
+fontchoice: raleway # An elegant sans-serif font with bold sans-serif accents
 #fontchoice: roboto # A clean sans-serif font with simple serif accents
-fontchoice: slab # A funky slab font with clean sans-serif accents
+#fontchoice: slab # A funky slab font with clean sans-serif accents
 #fontchoice: source # A modern serif font with clean sans-serif accents
 
 # Choose the COLORS you'd like to use.

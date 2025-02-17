@@ -1,15 +1,26 @@
 ---
-title: IDAH Community Archiving Template
+title: Centennial Struggle
 layout: homepage
 permalink: /
-pullquote: "Archives could and should go beyond the logics of possession, whether of physical or digital records, to prioritize human centered-values that position record creators not only as subjects, but as active agents in their own liberation."
-quoteattribution: "Marisa Hicks-Alcaraz"
 ---
 
-The [IDAH@IU team](https://idah.indiana.edu) often gets requests to support archiving projects. This repository provides a starting point, a template for using simple Github Pages, done in partnership with
-- [ImaginX en Movimiento (IXeM)](https://www.instagram.com/ixemcollective/?hl=en) co-founded by Dr. Marisa Hicks-Alcaraz, the [Center for Research on Race, Ethnicity and Society](https://crres.indiana.edu), and the [Asian Culture Center](https://asianresource.indiana.edu) at Indiana University Bloomington
-- Dr. Jazma Sutton and the [Remembering Freedom](https://longtownhistory.github.io/) descendant community in Greenville and Longtown, Ohio, for the community-archive project that inspired this template.
+Centennial Struggles is an online platform dedicated to documenting and visualizing resistance to carceral power in Colorado's Front Range. We look to provide activists, scholars, and community members with the tools and resources they need to understand and challenge the expansion of carceral power in the region.
 
-Reach us:
-- [On our web site](https://idah.indiana.edu)
-- By email at idah at indiana.edu
+Through a combination of interactive maps and a community-driven archive, Centennial Struggles seeks to uncover the complex ways that activists, organizations, and others have resisted the expansion of the prison industrial complex. By combining historical research with crowdsourced contributions, we aim to shed light on all social struggles, past and present.
+
+---
+
+# **Explore**
+
+### [Community Archive](https://drew-heider.github.io/centennial-struggles/collection)
+
+Access and contribute personal accounts, historical records, artwork, news reports, and other items to build a collective memory of resistance and resilience.
+
+### [Interactive Map](https://drew-heider.github.io/centennial-struggles/map)
+
+Locate and explore items found in our collections on a map Colorado’s Front Range.
+
+---
+
+# **Reach Out**
+Interested in contributing to this project? We want to hear [your story](https://drew-heider.github.io/centennial-struggles/submissions)!
