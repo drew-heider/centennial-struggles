@@ -8,8 +8,6 @@ permalink: /about
 
 Centennial Struggles (CS) is dedicated to unearthing the legacies of resistance to racial, settler colonial, economic, and gendered domination in Colorado’s Front Range region across the 20th century to the present. By combining digital maps and semi-curated digital archives, CS asks how reverberations of past social and political struggles map onto our current political moment. Our use of maps and archives reflects a commitment to using digital technologies to center marginalized histories of resistance, historicize contemporary social movements, and complement social and political struggle against carceral power.
 
-Our use of maps and archives in this project reflects a commitment to using digital technologies to center marginalized histories of resistance in a region that—buoyed by lax drug laws, the election of LGBTQ+ politicians, and environmentally friendly regulatins—imagines itself as a progressive island in a sea of convervativism.
-
 #### Goals
 * Increase the accessibility of marginalized histories for local communities in the Front Range by providing a semi-curated repository for materials (pictures, letters, news articles, etc.) that community members can contribute to and have ownership over.
 * Complement ongoing struggles against racism, settler colonial violence, sexism, queerphobia, and economic exploitation by mapping out historical examples of social and political resistance in the Front Range. We see these past moments as possible sources of inspiration for contemporary political organizers, activists, and scholars.
